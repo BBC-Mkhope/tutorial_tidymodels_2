@@ -1,2 +1,2 @@
-# tutorial_tidymodels_1_build_a_model
+# tutorial_tidymodels_2
 Tutorial from tidymodels.org
